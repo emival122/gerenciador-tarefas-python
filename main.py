@@ -11,7 +11,7 @@ st.set_page_config(
 
 aplicar_css()
 
-
+z
 def adicionar():
     texto = st.session_state.entrada.strip()
 
